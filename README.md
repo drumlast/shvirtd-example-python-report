@@ -59,3 +59,15 @@ docker compose ps
 
 ![text](img/7.png)
 ![text](img/8.png)
+
+## Задача 6
+
+#### Копирование бинарного файла /bin/terraform на локальную машину, используя dive и docker save
+![text](img/9.png)
+![text](img/10.png)
+![text](img/11.png)
+
+## Задача 6.1
+
+#### Копирование бинарного файла /bin/terraform на локальную машину, используя docker cp
+![text](img/12.png)
