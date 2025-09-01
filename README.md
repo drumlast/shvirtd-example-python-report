@@ -60,6 +60,8 @@ docker compose ps
 ![text](img/7.png)
 ![text](img/8.png)
 
+[Ссылка на форк](https://github.com/drumlast/shvirtd-example-python "Форк")
+
 ## Задача 6
 
 #### Копирование бинарного файла /bin/terraform на локальную машину, используя dive и docker save
