@@ -20,3 +20,9 @@
 ![text](img/5.png)
 #### скрин SQL-запросов
 ![text](img/6.png)
+
+## Задача 4
+
+#### Запуск проекта целиком на Yandex Cloud ВМ
+![text](img/7.png)
+![text](img/8.png)
